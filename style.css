@@ -1,0 +1,107 @@
+.Titulo
+{
+    font-family: Arial;
+    color: red;
+    font-size: 50px;
+    color: white;
+  
+}
+
+.subtitulo
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body
+{
+    background-image: url(/alexandre\ de\ morais.jpg);
+    background-size: cover;
+
+    width: 50px;
+    height: 50px;
+}
+
+* {
+    margin: 1px;
+    padding: 10px;
+  }
+
+  #caixa {
+    width: 160px;
+    height: 100px;
+  
+    box-sizing: border-box;
+  
+    background-color: maroon;
+  
+    padding: 10px;
+  
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  
+  #borda {
+    width: 50px;
+    height: 50px;
+  
+    background-color: antiquewhite;
+  
+    margin-bottom: 10px;
+    margin-left: 10px;
+  
+    border-width: 10px;
+    border-style: double;
+    border-color: black;
+  
+    border-radius: 50%;
+  }
+
+
+.img1
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+#Caixa-2
+{
+    width: 700px;
+    height: 550px;
+    background-color: tomato;
+}
+
+/* .lorem
+{
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+} */
+
+.sombra
+{
+    width: 100px;
+    height: 50px;
+  
+    background-color: blue;
+  
+    -webkit-box-shadow: 10px 10px 31px 0px rgba(255, 0, 255, 1);
+    -moz-box-shadow: 10px 10px 31px 0px rgba(255, 0, 255, 1);
+    box-shadow: 10px 10px 31px 0px rgba(255, 0, 255, 1);
+}
+
+.lorem-2
+{
+    background-color: yellow;
+    width: 37%;
+    height: 100%;
+}
+  
+.circulo 
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+    background-color: brown;
+}
